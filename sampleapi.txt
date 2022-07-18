@@ -1,0 +1,15 @@
+ {
+    node: {
+      title: 'Alia Bhatt to Anushka Sharma: Birthday girl Katrina Kaif’s pics with her BFFs',
+      nid_dont_use: '1',
+      field_photo_image_section: '/files/styles/photogallery/public/katrina-bffs-pics.jpg?itok=pdSdMuSS',
+      path: '/photos/katrina-kaif/alia-bhatt-anushka-sharma-birthday-girl-katrina-kaif-s-pics-her-bffs-1162840',
+      nid: '1162840',
+      photo_image_nids: '1162831,1162832,1162833,1162834,1162835,1162836,1162837,1162838,1162839',       
+      ImageStyle_thumbnail: '/files/styles/imagestyle_1_1/public/katrina-bffs-pics.jpg?itok=Qtvbj7yW',   
+      last_update: '1657990628',
+      views_count: '30',
+      author_uid: '870656',
+      author_name: 'Pinkvilla Desk'
+    }
+  }
